@@ -6,11 +6,11 @@ html {
   box-sizing: inherit; }
 
 /* Framework variables */
-/* 
+/*
   Colors used by this Theme
   Redefining those variables will redefine all colors
  */
-/* 
+/*
   UI Colors usage (this section allows fine tune override in the _overrides.scss
   by changing only the appropriate item
 */
@@ -5310,13 +5310,13 @@ button:focus, input[type="button"]:focus, input[type="reset"]:focus, input[type=
         margin-right: 0.1em; }
       #main #content .contextual a:before, #main #content .contextual .icon-add.checklist-new-only:before {
         margin-left: 1em; }
-    #main #content h2:first-of-type {
+    /*#main #content h2:first-of-type {
       font-weight: 400;
       border-bottom: 1px solid #CCCCCC;
       margin: 0 0 1.2em;
       padding: 0.7em 0; }
       #main #content h2:first-of-type .live_search {
-        margin-left: 1em; }
+        margin-left: 1em; }*/
     #main #content form .contextual {
       top: 0.4em;
       margin: 0; }
